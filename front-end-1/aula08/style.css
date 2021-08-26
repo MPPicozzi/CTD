@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+.titulo-principal{
+
+    color: crimson;
+    font-family: 'ubuntu', sans-serif;
+
+}
+
+.conteudo-principal {
+
+    height: 1000px;
+    background-image: url('https://y.yarn.co/3a016ab0-d4c2-4d93-80d3-d8dcd5649008_text.gif') ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    
+}
+
+.conteudo-principal  p {
+    color: red;
+    font-size: 100px;
+    font-family: 'Ubuntu', sans-serif;
+
+}

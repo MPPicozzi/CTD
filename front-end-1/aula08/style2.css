@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+body {
+
+    background-color: #75c73e;
+    
+}
+
+.titulo-principal {
+
+    color: white;
+    font-family: 'ubuntu', sans-serif;
+           
+
+}
+
+
+.imagem1 {
+
+    width: 100%;
+    height: 850px;
+    background-image: url(https://i0.wp.com/br.nacaodamusica.com/wp-content/uploads/2017/01/Shrek_3_Wallpaper_1024.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.nota-filme {
+
+    background-color: #ecc987;
+    padding: 12px;
+    font-family: 'ubuntu', sans-serif;
+
+}
+
+h2{
+    color: #2b82aa;
+    font-family: 'ubuntu', sans-serif;
+
+}
+
+p{
+    color: #8400ff;
+    font-style:italic;
+    font-weight: bold;
+    font-family: 'ubuntu', sans-serif;
+
+}
+
+a{
+    color: yellow;
+    font-family: 'ubuntu', sans-serif;
+}
