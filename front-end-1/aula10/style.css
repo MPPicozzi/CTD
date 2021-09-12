@@ -1,0 +1,49 @@
+@import url(https://allfont.net/allfont.css?fonts=star-jedi);
+
+.box {
+
+    width: 1300px;
+    height: 900px;
+    background-color: #000000;
+    padding: 10px;
+    border-bottom: 500px;
+    margin: 20px;
+
+}
+
+.quadro {
+
+    width: 1280px;
+    height: 720px;
+    background-image: url(https://cdn.pixabay.com/photo/2016/08/03/09/03/universe-1566159_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 25px;
+
+}
+
+h1 {
+
+    font-family: 'Star Jedi', arial;
+    font-size: 72px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(250, 246, 0);
+    text-align: center;
+
+}
+
+h2 {
+
+    font-family: 'Star Jedi', arial;
+    font-size: 20px;
+    color:  rgb(250, 246, 0);
+    text-align: center;
+    padding: 100px;
+   
+}
+
+a {
+    margin-left: 200px;
+
+}
