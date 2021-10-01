@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@300&display=swap');
+
+body {
+
+background-image: url(https://brasiltravelnews.com.br/wp-content/uploads/2021/03/destino-rio-de-janeiro-brazil-para-conocer-el-cerro-del-corcovado-1170x658.jpg);
+width: auto;
+height: 720px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: relative;
+font-family: "Urbanist", sans-serif;
+background-color: #156d6e;
+
+}
+
+header{
+
+    padding: 20px 0px;
+    
+}
+
+.box1{
+
+    position:absolute;
+    background-color: white; opacity: 0.8;
+    padding: 5px;
+    box-sizing: border-box;
+   
+}
+
+.image-title{
+
+    width: 120px;
+    height: 100px;
+    position: relative;
+    margin: 5px;
+   
+
+}
+
+.video{
+
+    padding-top: 500px;
+    width: 1280px;
+    height: 720px;
+    position: absolute;
+
+}
+
+
+main{
+
+    margin-top: 150px;
+      
+}
+
+footer{
+
+    margin-top: 1950px ;
+    padding-bottom: 100px;
+
+}
+
+h1{
+
+    color: #444941;
+    font-family: "Urbanist", sans-serif;
+    font-weight: normal;
+    width: 30%;
+    padding-left: 20px;
+    background-color: white; opacity: 0.8;
+
+}
+
+h2{
+
+    color: #444941;
+    font-family: "Urbanist", sans-serif;
+    font-weight: normal;
+    width: 30%;
+    padding-left: 20px;
+    background-color: white; opacity: 0.8;
+
+}
+
+
+p{
+    color: #444941;
+    font-family: "Urbanist", sans-serif;
+    font-weight: normal;
+    line-height: 30px;
+    background-color: white; opacity: 0.8;
+}
+
+li{
+
+    font-family: "Urbanist", sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+
+}
+
+img{
+
+    width: 100px;
+
+}
